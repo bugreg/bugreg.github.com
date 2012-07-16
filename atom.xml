@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Junior coder life]]></title>
+  <link href="http://bugreg.github.com/atom.xml" rel="self"/>
+  <link href="http://bugreg.github.com/"/>
+  <updated>2012-07-16T13:32:07+08:00</updated>
+  <id>http://bugreg.github.com/</id>
+  <author>
+    <name><![CDATA[Roger Ji]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[firstpost]]></title>
+    <link href="http://bugreg.github.com/blog/2012/03/22/firstpost/"/>
+    <updated>2012-03-22T15:04:00+08:00</updated>
+    <id>http://bugreg.github.com/blog/2012/03/22/firstpost</id>
+    <content type="html"><![CDATA[<p>-Test-
+&#8211;Test Test Test&#8211;</p>
+]]></content>
+  </entry>
+  
+</feed>
