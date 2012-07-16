@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Junior coder life]]></title>
+  <title><![CDATA[Road to Freedom]]></title>
   <link href="http://bugreg.github.com/atom.xml" rel="self"/>
   <link href="http://bugreg.github.com/"/>
-  <updated>2012-07-16T13:32:07+08:00</updated>
+  <updated>2012-07-16T14:55:44+08:00</updated>
   <id>http://bugreg.github.com/</id>
   <author>
     <name><![CDATA[Roger Ji]]></name>
@@ -14,12 +14,20 @@
 
   
   <entry>
-    <title type="html"><![CDATA[firstpost]]></title>
+    <title type="html"><![CDATA[Back to programming]]></title>
     <link href="http://bugreg.github.com/blog/2012/03/22/firstpost/"/>
     <updated>2012-03-22T15:04:00+08:00</updated>
     <id>http://bugreg.github.com/blog/2012/03/22/firstpost</id>
-    <content type="html"><![CDATA[<p>-Test-
-&#8211;Test Test Test&#8211;</p>
+    <content type="html"><![CDATA[<p>买了台macbook air，果然是coding神器，虽然差不多7年没写代码了，还是勾起了久违的编码热情，就拿它学习学习ruby和ruby on rails，为以后的创业做点准备。先列个小小的计划，看看2012年底能否做到。</p>
+
+<ol>
+<li>建立一个基于ruby技术的博客纪录学习点滴</li>
+<li>熟悉mac上ruby开发工具：git，vim，markdown，rvm，mow等等,能用这些工具高效的写blog，coding</li>
+<li>用ruby完成基于1分钟数据外汇统计分析</li>
+</ol>
+
+
+<p>:)</p>
 ]]></content>
   </entry>
   
