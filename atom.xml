@@ -4,7 +4,7 @@
   <title><![CDATA[Road to Freedom]]></title>
   <link href="http://bugreg.github.com/atom.xml" rel="self"/>
   <link href="http://bugreg.github.com/"/>
-  <updated>2012-07-16T14:55:44+08:00</updated>
+  <updated>2012-07-17T16:50:15+08:00</updated>
   <id>http://bugreg.github.com/</id>
   <author>
     <name><![CDATA[Roger Ji]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Team collaboration tools]]></title>
+    <link href="http://bugreg.github.com/blog/2012/07/17/team-collaboration-tools/"/>
+    <updated>2012-07-17T16:28:00+08:00</updated>
+    <id>http://bugreg.github.com/blog/2012/07/17/team-collaboration-tools</id>
+    <content type="html"><![CDATA[<h1>Sharepoint sucks</h1>
+
+<p>最近公司准备推行新的项目管理工具，居然选的是19世纪的sharepoint，很是让人失望。软件行业从业10几年了，呆过的公司不下4,5家，没有一家有性感易用的团队协作工具。 大部分企业的高管承认团队协作工具不理想，但又不愿意在这上面做太大的投资，导致大部分公司的团队协作软件还处于很低级原始的水平，难以想象在一个web2.0,云计算，社会化浪潮的今天还有人用sharepoint。。。</p>
+
+<p>简单梳理一下团队协作软件的需求：</p>
+
+<ol>
+<li>基于web，资料存在云端，易于部署，数据永不丢失</li>
+<li>社会化，能定制自己感兴趣的信息</li>
+<li>易用，易于找到信息（全文search）</li>
+<li>一站式集中wiki，issue tracking，project management，即时通信等功能</li>
+<li>能和公司邮件，SAP，CRM系统集成</li>
+</ol>
+
+
+<p>考察了市面上的一些产品，都不太完美，罗列如下供以后进一步考察</p>
+
+<ol>
+<li>jive</li>
+<li>trello（轻量级项目管理工具）</li>
+<li>google apps （太散乱，没有portal）</li>
+<li>basecamp，asana，siasto （轻量级项目管理工具）</li>
+<li>cofluence wiki and jira</li>
+</ol>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Back to programming]]></title>
