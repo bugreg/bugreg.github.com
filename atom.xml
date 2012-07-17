@@ -4,7 +4,7 @@
   <title><![CDATA[Road to Freedom]]></title>
   <link href="http://bugreg.github.com/atom.xml" rel="self"/>
   <link href="http://bugreg.github.com/"/>
-  <updated>2012-07-17T16:50:15+08:00</updated>
+  <updated>2012-07-17T16:52:15+08:00</updated>
   <id>http://bugreg.github.com/</id>
   <author>
     <name><![CDATA[Roger Ji]]></name>
@@ -18,7 +18,7 @@
     <link href="http://bugreg.github.com/blog/2012/07/17/team-collaboration-tools/"/>
     <updated>2012-07-17T16:28:00+08:00</updated>
     <id>http://bugreg.github.com/blog/2012/07/17/team-collaboration-tools</id>
-    <content type="html"><![CDATA[<h1>Sharepoint sucks</h1>
+    <content type="html"><![CDATA[<h2>Sharepoint sucks</h2>
 
 <p>最近公司准备推行新的项目管理工具，居然选的是19世纪的sharepoint，很是让人失望。软件行业从业10几年了，呆过的公司不下4,5家，没有一家有性感易用的团队协作工具。 大部分企业的高管承认团队协作工具不理想，但又不愿意在这上面做太大的投资，导致大部分公司的团队协作软件还处于很低级原始的水平，难以想象在一个web2.0,云计算，社会化浪潮的今天还有人用sharepoint。。。</p>
 
