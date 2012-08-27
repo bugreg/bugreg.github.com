@@ -4,7 +4,7 @@
   <title><![CDATA[Road to Freedom]]></title>
   <link href="http://bugreg.github.com/atom.xml" rel="self"/>
   <link href="http://bugreg.github.com/"/>
-  <updated>2012-07-17T16:53:39+08:00</updated>
+  <updated>2012-08-27T10:51:46+08:00</updated>
   <id>http://bugreg.github.com/</id>
   <author>
     <name><![CDATA[Roger Ji]]></name>
@@ -54,13 +54,15 @@
     <content type="html"><![CDATA[<p>买了台macbook air，果然是coding神器，虽然差不多7年没写代码了，还是勾起了久违的编码热情，就拿它学习学习ruby和ruby on rails，为以后的创业做点准备。先列个小小的计划，看看2012年底能否做到。</p>
 
 <ol>
-<li>建立一个基于ruby技术的博客纪录学习点滴</li>
-<li>熟悉mac上ruby开发工具：git，vim，markdown，rvm，mow等等,能用这些工具高效的写blog，coding</li>
-<li>用ruby完成基于1分钟数据外汇统计分析</li>
+<li>建立一个基于ruby技术的博客记录学习点滴  [完成，待优化theme添加些个性化元素]</li>
+<li>熟悉mac上ruby开发工具：git，vim，markdown，rvm，mow等等,能用这些工具高效的写blog，coding ［WIP］</li>
+<li>用ruby完成基于日线数据外汇统计分析  ［WIP，第一个版本已经完成］</li>
 </ol>
 
 
 <p>:)</p>
+
+<p>update at 2012-08-27 embedded</p>
 ]]></content>
   </entry>
   
