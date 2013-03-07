@@ -4,7 +4,7 @@
   <title><![CDATA[Roger Ji - Road to Freedom]]></title>
   <link href="http://bugreg.github.com/atom.xml" rel="self"/>
   <link href="http://bugreg.github.com/"/>
-  <updated>2012-11-02T12:19:55+08:00</updated>
+  <updated>2013-03-07T11:16:43+08:00</updated>
   <id>http://bugreg.github.com/</id>
   <author>
     <name><![CDATA[Roger Ji]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[plan on blog and microblog]]></title>
+    <title type="html"><![CDATA[博客和微博运营计划]]></title>
     <link href="http://bugreg.github.com/blog/2012/08/27/plan-on-blog-and-microblog/"/>
     <updated>2012-08-27T14:08:00+08:00</updated>
     <id>http://bugreg.github.com/blog/2012/08/27/plan-on-blog-and-microblog</id>
@@ -27,30 +27,30 @@
 <ol>
 <li>通过金融投资达到财务自由</li>
 <li>通过2,3积累创业经验和积累人脉</li>
-<li>学习产品设计，网站运营，web前端知识，积累创业经验</li>
+<li>运作一个兼职项目，积累创业经验</li>
 </ol>
 
 
 <h3>博客，微博定位及运营计划</h3>
 
-<p>博客定位：团队管理，软件开发，移动互联行业评论，投资，创业准备
+<p>博客定位：团队管理，软件开发，移动互联行业评论，投资，创业
 博客运营计划：每月发布一篇原创博客，转发2～3篇高质量博客</p>
 
 <p>微博定位：同博客，增加个人爱好元素，如旅游，运动等，让人物更丰满
 微博运营计划： 一周发布15条原创微博</p>
 
-<h3>阶段性目标</h3>
+<h3>阶段性目标（2013/3重新修订)</h3>
 
 <ol>
-<li>Sep.～Nov.  pilot run，发布2～3遍原创博客，50条原创微博</li>
-<li>Dec.～March. 回顾并定出具体执行计划，3月底的时候达到1000关注</li>
+<li>2013 Mar.～Jun. pilot run，发布2～3遍原创博客，50条原创微博</li>
+<li>2013 Jun.～Dec. 15篇原创博文，年底的时候达到10000关注</li>
 </ol>
 
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Team collaboration tools]]></title>
+    <title type="html"><![CDATA[团队协作工具]]></title>
     <link href="http://bugreg.github.com/blog/2012/07/17/team-collaboration-tools/"/>
     <updated>2012-07-17T16:28:00+08:00</updated>
     <id>http://bugreg.github.com/blog/2012/07/17/team-collaboration-tools</id>
@@ -59,7 +59,7 @@
 <p>简单梳理一下团队协作软件的需求：</p>
 
 <ol>
-<li>基于web，资料存在云端，易于部署，数据永不丢失</li>
+<li>基于Web和cloud技术，易于部署和维护，所有数据在服务器端，如目标客户是大公司，则必须有私有云解决方案</li>
 <li>社会化，能定制自己感兴趣的信息</li>
 <li>易用，易于找到信息（全文search）</li>
 <li>一站式集中wiki，issue tracking，project management，即时通信等功能</li>
@@ -73,16 +73,16 @@
 <li>jive</li>
 <li>trello（轻量级项目管理工具）</li>
 <li>google apps （太散乱，没有portal）</li>
-<li>basecamp，asana，siasto （轻量级项目管理工具）</li>
-<li>cofluence wiki and jira</li>
+<li>basecamp（使用过，适合轻型团队使用），asana（使用过，没有basecamp好用），siasto （轻量级项目管理工具）</li>
+<li>cofluence wiki and jira　（使用过，私有云，支持scrum，适合大型工程团队，但用户体验差basecamp几条街）</li>
 </ol>
 
 
 <p>update from 2012-09-27</p>
 
-<h3>此行业的颠覆式创新的机会在哪里？</h3>
+<h3>此行业可能的大机会：</h3>
 
-<p>基本判断，50人以下的公司没有强需求，现有工具（email，skype，shared folder等）可以部分满足需求，除非是企业创始人有很强的geek气质，而且愿意投入，否则50人以下小企业不是典型客户。</p>
+<p>基本判断，50人以下的公司没有强需求，现有工具（email，skype，shared folder等）可以部分满足需求，除非是企业创始人有很强的geek气质，愿意投资在工具上，但即使有需求，轻型工具如basecamp可以满足要求，很难做大。</p>
 
 <p>真正的客户应该锁定在200人～5000人的中小型企业，随着团队规模的增大，办公地点的增多，简单的工具已经不能很好的满足需求，我工作的过的三个公司就很典型（AMD，Autodesk，ARM），规模从几万人到几千人不等，团队协作工具都很原始，intranet非常难用，很难寻找有用的信息，有问题很很难找到合适的人问。针对此类客户，分析下下强需求，颠覆式创新点。</p>
 
@@ -92,26 +92,6 @@
 <li>必须要有的元素：任务管理系统，built－in wiki，issue tracking，全站search。 (即时通信，视屏对话非强需求）</li>
 </ol>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Back to programming]]></title>
-    <link href="http://bugreg.github.com/blog/2012/03/22/firstpost/"/>
-    <updated>2012-03-22T15:04:00+08:00</updated>
-    <id>http://bugreg.github.com/blog/2012/03/22/firstpost</id>
-    <content type="html"><![CDATA[<p>买了台macbook air，果然是coding神器，虽然差不多7年没写代码了，还是勾起了久违的编码热情，就拿它学习学习ruby和ruby on rails，为以后的创业做点准备。先列个小小的计划，看看2012年底能否做到。</p>
-
-<ol>
-<li>建立一个基于ruby技术的博客记录学习点滴  [完成，待优化theme添加些个性化元素]</li>
-<li>熟悉mac上ruby开发工具：git，vim，markdown，rvm，mow等等,能用这些工具高效的写blog，coding ［WIP］</li>
-<li>用ruby完成基于日线数据外汇统计分析  ［WIP，第一个版本已经完成］</li>
-</ol>
-
-
-<p>:)</p>
-
-<p>update at 2012-08-27 embedded</p>
 ]]></content>
   </entry>
   
