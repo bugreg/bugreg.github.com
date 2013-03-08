@@ -4,7 +4,7 @@
   <title><![CDATA[Roger Ji - Road to Freedom]]></title>
   <link href="http://bugreg.github.com/atom.xml" rel="self"/>
   <link href="http://bugreg.github.com/"/>
-  <updated>2013-03-07T11:24:40+08:00</updated>
+  <updated>2013-03-08T08:50:39+08:00</updated>
   <id>http://bugreg.github.com/</id>
   <author>
     <name><![CDATA[Roger Ji]]></name>
@@ -84,14 +84,16 @@
 
 <p>基本判断，50人以下的公司没有强需求，现有工具（email，skype，shared folder等）可以部分满足需求，除非是企业创始人有很强的geek气质，愿意投资在工具上，但即使有需求，轻型工具如basecamp可以满足要求，很难做大。</p>
 
-<p>真正的客户应该锁定在200人～5000人的中小型企业，随着团队规模的增大，办公地点的增多，简单的工具已经不能很好的满足需求，我工作的过的三个公司就很典型（AMD，Autodesk，ARM），规模从几万人到几千人不等，团队协作工具都很原始，intranet非常难用，很难寻找有用的信息，有问题很很难找到合适的人问。针对此类客户，分析下下强需求，颠覆式创新点。</p>
+<p>真正的客户应该锁定在200人～5000人的中小型企业，随着团队规模的增大，办公地点的增多，简单的工具已经不能很好的满足需求，我工作的过的三个公司就很典型（AMD，Autodesk，ARM），规模从几万人到几千人不等，团队协作工具都很原始，intranet非常难用，很难寻找有用的信息，有问题很很难找到合适的人问。针对此类客户，我认为必须具备创新点是，</p>
 
 <ol>
 <li>社会化，社会化，社会化， 要把人，项目都可以连接起来，员工可以关注别的员工，也可以关注感兴趣的项目。</li>
 <li>云，云，云，一定要有私有云解决方案，且可以无缝升级</li>
-<li>必须要有的元素：任务管理系统，built－in wiki，issue tracking，全站search。 (即时通信，视屏对话非强需求）</li>
+<li>必须要有的元素：任务管理系统／issue tracking，built－in wiki，全站search。 (即时通信，视屏对话非强需求）</li>
 </ol>
 
+
+<p>这个scope很大，突破口可以选择为销售团队协作（只需任务管理系统），或者工程团队（支持agile开发流程得per-project base的任务管理，wiki系统）</p>
 ]]></content>
   </entry>
   
